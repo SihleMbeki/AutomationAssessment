@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-29T22:38:17 CAT" name="Test Assessment" finished-at="2021-07-29T22:38:36 CAT" duration-ms="18950">
+    <groups>
+    </groups>
+    <test started-at="2021-07-29T22:38:17 CAT" name="Test one" finished-at="2021-07-29T22:38:36 CAT" duration-ms="18950">
+      <class name="Automation.TestAutomation.testing.AppTest">
+        <test-method signature="test()[pri:0, instance:Automation.TestAutomation.testing.AppTest@648d0e6d]" started-at="2021-07-29T22:38:17 CAT" name="test" finished-at="2021-07-29T22:38:36 CAT" duration-ms="18828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Automation.TestAutomation.testing.AppTest@648d0e6d]" started-at="2021-07-29T22:38:36 CAT" name="tearDown" finished-at="2021-07-29T22:38:36 CAT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Automation.TestAutomation.testing.AppTest -->
+    </test> <!-- Test one -->
+  </suite> <!-- Test Assessment -->
+</testng-results>
